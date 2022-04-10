@@ -4,7 +4,7 @@ http://cs231n.stanford.edu/schedule.html
 
 
 Assignment 1 : Image Classification, kNN, SVM, Softmax, Fully-Connected Neural Network  
-https://cs231n.github.io/linear-classify/
+https://cs231n.github.io/linear-classify/  
 https://programmerclick.com/article/9559508867/
 
 
