@@ -14,7 +14,7 @@ https://cs231n.github.io/linear-classify/
 https://programmerclick.com/article/9559508867/  
 
 
-**Assignment 2**  
+### Assignment 2 
 Q1: Multi-Layer Fully Connected Neural Networks  
 Q2: Batch Normalization  
 Q3: Dropout  
@@ -24,7 +24,7 @@ Q5: PyTorch/TensorFlow on CIFAR-10
 https://cs231n.github.io/neural-networks-3/#gradcheck  
 https://github.com/haofeixu/cs231n  
 
-**Assignment 3**  
+### Assignment 3  
 Q1: Image Captioning with Vanilla RNNs  
 Q2: Image Captioning with Transformers  
 Q3: Network Visualization: Saliency Maps, Class Visualization, and Fooling Images  
