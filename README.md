@@ -1,9 +1,9 @@
-**cs231n assignment**  
+# cs231n assignment
 http://cs231n.stanford.edu/schedule.html
 
 
 
-**Assignment 1**  
+## Assignment 1 
 Q1: k-Nearest Neighbor classifier  
 Q2: Training a Support Vector Machine  
 Q3: Implement a Softmax classifier  
